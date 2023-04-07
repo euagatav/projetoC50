@@ -1,0 +1,60 @@
+.aprenda{
+    background-color: aquamarine;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(155, 179, 184);
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+}
+.grid{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+
+}
+.grid img{ 
+    position: relative;
+    border: 2px solid #000000;
+    border-radius: 50px;
+    background-color: rgb(198, 226, 221);
+    
+ }
+
+.origami { 
+    border-radius: 30px;
+    background-color: #fff9f7;
+    padding: 30px;
+    margin: 25px;
+    width:300px;
+    font-family: cursive; 
+}
+body{ 
+    margin: 0px;
+    background-color:#008080;
+}
+     
+     .fundo{
+        display: flex;
+        position: absolute;
+        width: 10000px;
+        height: 10%;
+
+     }
+
+     .text{
+        position: relative;
+        font-size: 27px;
+        left: 20px;
+        top: 7px;
+        color: #dffffe;
+     }
+    
